@@ -1,0 +1,2 @@
+Video/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Video/1080px[[:space:]]video.mp4 filter=lfs diff=lfs merge=lfs -text
